@@ -11,5 +11,5 @@
   wlan.magic(channel=11, packet) <br>
   wlan.magic('put channel type int', 'packet as bytearray') <br>
 </p>
-<h2><strong>Use with caution and I take no responsibility for anyone's way of using this function</strong></h2>
+<h2>Use with caution and I take no responsibility for anyone's way of using this function</h2><br>
 <h2>Have fun!</h2>
